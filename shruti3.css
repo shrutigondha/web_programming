@@ -1,0 +1,42 @@
+h1{
+color:automatic;
+margin-top:auto;
+text-align:center; 
+}
+
+form tr
+{
+list-style:none;
+margin-bottom:5px;
+}
+
+form tr td
+{   
+width: 200px; 
+text-align: right; 
+margin-right: 10px; 
+font-size:10px; 
+} 
+
+form td, tr, input, select, span  
+{ 
+border: 1px solid maroon; 
+} 
+
+form textarea 
+{ 
+float: left; 
+width: 250px; 
+height: 80px; 
+border: 1px solid maroon; 
+} 
+
+[type="submit"]  
+{ 
+border-radius: 20px;
+clear:right;
+margin:20px 30 10 30px;
+font-size:12px; 
+background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+text-align:center;
+}
